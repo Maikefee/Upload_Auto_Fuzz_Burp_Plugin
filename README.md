@@ -117,6 +117,7 @@
 
 ## 作者信息
 - **开发者**: Maikefee
+- 现仓库：https://github.com/Maikefee/Upload_Auto_Fuzz_Burp_Plugin   优化版
 - 原仓库：https://github.com/T3nk0/Upload_Auto_Fuzz
 
 ## 免责声明
